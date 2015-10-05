@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private Button sendAgainButton;
     public static final String MESSAGE = "message";
     public static final String TAG = "Reagan";
-
+//Test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
